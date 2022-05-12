@@ -1,10 +1,8 @@
 package com.data.factory;
 
 import com.data.factory.adapters.Base64Encoder;
-import com.data.factory.adapters.S3Operator;
 import com.data.factory.adapters.StorageOperator;
 import com.data.factory.exceptions.ControllerException;
-import com.data.factory.exceptions.RequestException;
 import com.data.factory.models.Contract;
 import com.data.factory.models.EnvironmentVariables;
 import com.data.factory.ports.Encoder;
