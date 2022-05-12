@@ -1,5 +1,8 @@
 # GCP Cloud Storage Data Pipeline
 
+## Description
+
+This service allows upload a local file to GCP cloud Storage bucket.
 
 ## Contract
 
